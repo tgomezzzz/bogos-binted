@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## Bogos Binted?
 
-You can use the [editor on GitHub](https://github.com/tgomezzzz/ces-generative-art/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tgomezzzz/ces-generative-art/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+One thing I find frustrating about poetry is that it can be endlessly ambiguous and open to interpretation. While this is powerful in that it allows individuals to react to pieces of poetry uniquely, sometimes I want nothing more than to know a poem's intended meaning. My art is a satirical take on the ambiguity of poetry - the words of my poem simply have no intended meaning. Taken from a meme I found deep on social media months ago, my "poem" begins reasonably, but quickly becomes nonsensical. It then repeats over and over again to further emphasize this nonsense. No matter how long you think about it, how long you ponder the words, no meaning ever takes form. For me, this is rather refreshing, as the complexities and intricate literary devices of more traditional poetry quickly give me headaches.  
+  
+## Structure
+While my poem's words don't have meaning, I did supply some artistic structure to help indicate that this poem takes the form of a short conversation. The source meme from which the words are taken is a static image of a screenshot between two people texting. I chose to make this conversation a bit more dynamic by associating color and style with each speaker. Each speaker is randomly assigned a background color while their words are displayed, to help emphasize that there are two different voices speaking. The background colors are reassigned with each cycle of the poem, but the two speakers will never have the same background color in any cycle. Similarly, the speakers' text is presented in a different style to connote different personalities. Speaker 1's words display character-by-character, as if they are being texted out individually. This simple yet familiar manner of displaying text conveys a more rational and logical Speaker 1. Speaker 2, however, is the opposite. Speaker 2's words fly in from the unexpected side of the screen, traveling right to left. They present much more chaotically, contributing to the nonsense that Speaker 2 introduces. Additionally, Speaker 2's words flicker quickly, giving a sense of instability and confusion. This is actually a bug that I spent a good amount of time trying to fix, until I realized that it matches Speaker 2's persona quite nicely.
